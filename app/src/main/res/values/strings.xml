@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GenshinIndex</string>
+    <string name="search_character">Search Character</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search">Search</string>
+    <string name="menu_home">Menu</string>
+    <string name="menu_profile">Profile</string>
+    <string name="name">Arda Ardiyansyah</string>
+    <string name="email">ardaardiansyah24@gmail.com</string>
+    <string name="back_button">Back Button</string>
+</resources>
